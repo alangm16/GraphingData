@@ -1,0 +1,38 @@
+# --- Carpetas compiladas ---
+/build/
+/dist/
+
+# Archivos de NetBeans
+nbproject/private/
+nbproject/Makefile-*.mk
+nbproject/*-impl.xml
+
+# Archivos generados de NetBeans
+**/nbbuild/
+**/nbdist/
+**/nbactions.xml
+**/nb-configuration.xml
+
+# Dependencias descargadas
+lib/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de IDE
+*.class
+*.log
+*.tmp
+
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+.gradle/
+build/
+
+*.jar
+*.war
+*.ear
