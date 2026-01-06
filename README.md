@@ -1,18 +1,19 @@
 # Graphing Data
 
-Proyecto en Java (NetBeans) para graficar datos usando interfaces gráficas.
+Java project (NetBeans) for graphing data using graphical user interfaces.
 
-## 🛠️ Tecnologías
+## Technologies
 - Java
 - NetBeans
 - Swing
 
-## Cómo ejecutar
-1. Abrir el proyecto en NetBeans
-2. Ejecutar la clase principal
+## How to Run
+1. Open the project in NetBeans
+2. Run the main class
 
-## Estructura
-- src/ → Código fuente
+## Project Structure
+- src/ → Source code
 
-## Autor
+## Author
 AlanGM16
+
